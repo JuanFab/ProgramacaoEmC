@@ -4,11 +4,11 @@ Este é um projeto em C desenvolvido como parte do desafio "Nível Aventureiro" 
 
 ## 🎯 Objetivo
 
-Criar um jogo simples estilo Super Trunfo, onde o jogador compara atributos entre duas cartas de estados brasileiros.
+Criar um jogo estilo Super Trunfo, onde o jogador compara atributos entre duas cartas de estados brasileiros com base em dados como população, área, PIB, etc.
 
 ## 🚀 Como compilar e executar
 
 ### 1. Compile o programa:
 
 ```bash
-gcc super_trunfo.c -o super_trunfo
+gcc SuperTrunfo2.c -o SuperTrunfo2

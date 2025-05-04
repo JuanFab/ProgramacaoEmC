@@ -1,0 +1,60 @@
+# Arquivos de build e temporários
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tmp
+*.user
+*.suo
+*.cache
+*.tlog
+*.idb
+
+# Diretórios gerados pelo Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.VC.db
+*.VC.opendb
+
+# Arquivos de backup
+*.bak
+*.old
+*.orig
+
+# Arquivos de configuração locais
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de índice do Git
+*.idx
+*.pack
+
+# Evita que arquivos de configuração pessoal entrem no repositório
+*.vsp
+*.ncb
+*.sdf
+*.opensdf
+
+# Arquivos relacionados ao cache do Intellisense
+*.db
+
+# Ignora binários e outros arquivos gerados
+*.dll
+*.lib
+*.exp
+*.out
+*.o
+
+# Arquivos de sistema (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivo do sistema Mac (se usar em dual boot/mac)
+.DS_Store

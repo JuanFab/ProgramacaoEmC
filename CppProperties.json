@@ -6,6 +6,7 @@
       ],
       "name": "Mingw64",
       "includePath": [
+        "${workspaceRoot}\\..\\..\\msys64\\mingw64\\include",
         "${workspaceRoot}\\..\\msys64\\ucrt64\\include",
         "${env.INCLUDE}",
         "${workspaceRoot}\\**"
